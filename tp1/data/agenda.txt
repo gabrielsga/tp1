@@ -1,0 +1,8 @@
+1|1|10|10|Commitment on January 1st at 10:10
+1|1|15|15|Commitment on January 1st at 15:15
+1|1|20|20|New appointment added through program
+1|1|9|9|Testing insertion
+1|2|17|0|Commitment on January 2nd at 17:00
+1|2|20|30|Meet friends at Bebs
+2|2|15|0|Commitment on February 2nd at 15:00
+10|12|22|0|Commitment on October 12th at 22:00
